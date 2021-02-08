@@ -1,24 +1,39 @@
-# README
+# Base Metal Forms and Helpers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The aim of this project is to build a form first using html and then switching to rails using the rails form helpers.
 
-Things you may want to cover:
+# Built with
 
-* Ruby version
+- Ruby on rails
+- Rubocop
+- VsCode
 
-* System dependencies
+# Getting Started
 
-* Configuration
+- First copy the link of the repo from github
+- Clone the repo to your computer
+- Browse into the project directory
+- Run bundle install
+- Run rails db:migrate to create the databese with the tables, columns and associations
+- Run rails server to access the localhost
+- Type users/new to create a new user
+- Type users/1/edit to edit the existing user
 
-* Database creation
+# Author
 
-* Database initialization
+Kamwa Emmanuelle Alix
+- Twitter: @AlixKamwa
+- Github: @emmanuellekamwa
+- Linkedin: emmanuelle-kamwa-86145a1a4
 
-* How to run the test suite
+# Contributions
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and featur requests are highly welcomed!
 
-* Deployment instructions
+# Show some support
 
-* ...
+Give a star if you like this project!
+
+# License
+
+This project is MIT licensed
